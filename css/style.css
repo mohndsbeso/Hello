@@ -1,0 +1,48 @@
+body{
+    background-image: url(../colorful-gradient-liquid-shapes-background_23-2148250143.jpg);
+    height: 100vh;
+    background-size: 100% 100%;}
+
+
+.container-fuild
+{ background: linear-gradient(to bottom, #ff0099, #49324000);
+  margin: auto;
+  padding-bottom: .5em;}
+
+
+
+
+.app-Navbar a
+{color: #ffffff;}
+
+
+.app-Navbar a:hover
+{text-decoration: none;}
+
+.app-Navbar .row
+{    align-items: baseline;}
+
+
+
+
+.app-Navbar     .classic a
+{ font-size: 26px;
+  font-weight: 700;}
+
+
+
+
+
+.app-Navbar .links
+{text-align: center;}
+
+
+.app-Navbar     .links  .link
+{padding: 1em;
+font-weight: 400;
+font-size: 17px;
+font-family: sans-serif;
+letter-spacing: 1px;}
+
+
+.app-Navbar     .links  .link:hover{border-radius: 10px; border: 0;}
